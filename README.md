@@ -46,7 +46,7 @@ I love to create projects that are not only functional but also visually engagin
 
 <p align="center">
   <a href="mailto:arpitasinha9600@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/arpita-sinhaaa"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/arpita-sinhaaa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://github.com/Arpita-Sinha-07"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
 </p>
 ---

@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Arpita Sinha</h1>
+<h1 align="center">Hi there 👋, This is Arpita Sinha</h1>
 <h3 align="center">Aspiring Software Developer Engineer | Engineering Student | Creative Coder</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-I am **ARPITA SINHA**, a frontend developer and B.Tech student from INDIA passionate about building modern and user-friendly web interfaces.  
+I am **ARPITA SINHA**, a full Stack developer and B.Tech student from INDIA passionate about building modern and user-friendly web interfaces.  
 I love to create projects that are not only functional but also visually engaging.
 
 ---
